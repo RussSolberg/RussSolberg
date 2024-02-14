@@ -1,7 +1,7 @@
 Hi 👋 My name is Russell Solberg
 ================================
 
-Senior Technology Executive & Leader
+IT Leader, Software Engineer, Baseball Coach & Entrepneur
 ------------------------------------
 
 * 🌍  I'm based in Vancouver, WA
