@@ -5,6 +5,7 @@ IT Leader, Software Engineer, Baseball Coach, & Entrepneur
 ------------------------------------
 
 * 🌍  I'm based in Vancouver, WA
+* 🖥️  See my cv and personal website at [rsolberg.com](http://rsolberg.com)
 * 🚀  I'm currently working on some "hobby" projects like [SportsDoba](https://sportsdoba.com/) & [CreatorInfo](http://creatorinfo.com/)
 * 🧠  I'm learning React, NextJS, Clerk, & Xata along with the AWS platform.
 
