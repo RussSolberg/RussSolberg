@@ -5,8 +5,8 @@ Senior Technology Executive & Leader
 ------------------------------------
 
 * 🌍  I'm based in Vancouver, WA
-* 🚀  I'm currently working on [CreatorInfo](http://creatorinfo.com/)
-* 🧠  I'm learning React, next.js, clerk, & xata
+* 🚀  I'm currently working on some "hobby" projects like [SportsDoba](https://sportsdoba.com/) & [CreatorInfo](http://creatorinfo.com/)
+* 🧠  I'm learning React, NextJS, Clerk, & Xata along with the AWS platform.
 
 ### Skills
 
