@@ -1,4 +1,4 @@
-Hi 👋 My name is Russell Solberg
+My name is Russell Solberg
 ================================
 
 IT Leader, Software Engineer, Baseball Coach, & Entrepneur
